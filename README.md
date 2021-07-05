@@ -14,7 +14,12 @@ A food recipe website using HTML and CSS.
 
 ---
 ## Week 3 - Lasles VPN
-A food recipe website using HTML and CSS.
+A responsive website built using Nunjucks, SCSS, BEM Methodology.
+
+This homework is a collaborative work. 
+The team members:
+[Gizem](https://github.com/gizemnkorkmaz) | [Hatice](https://github.com/Haticesurumlu) | [Alperen](https://github.com/git-Alp)
+
 [Source Code](https://github.com/serkanc7/Lasles-VPN)
 #### Live
 [Lasles VPN](https://lasles-vpn-e.netlify.app/#)
