@@ -8,7 +8,7 @@ https://codepen.io/serkanc7/pen/mdWxWZj
 ---
 ## Week 2 - Food Recipe
 A food recipe website using HTML and CSS.
-[Source Code]()
+[Source Code](https://github.com/serkanc7/Kodluyoruz-Front-end-Bootcamp/tree/main/week2-food-recipe)
 #### Live
 [Food Recipe](https://food-recipe-web.netlify.app/)
 
@@ -21,7 +21,7 @@ A food recipe website using HTML and CSS.
 
 ---
 ## Week 4 - Javascript Challange
-[Source Code]()
+[Source Code](https://github.com/serkanc7/Kodluyoruz-Front-end-Bootcamp/tree/main/week4-javascript-challange)
 #### Live
 [Javascript Challange](https://js-data-challange.netlify.app)
 
