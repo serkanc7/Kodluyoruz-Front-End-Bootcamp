@@ -1,8 +1,10 @@
 ## Countdown
-It's a countdown example. I used Vue.
+It's a countdown example. I used Vue3.
 
-## Source Code
-[Source Code](https://github.com/serkanc7/countdown)
-
+## Installation
+```		
+$yarn
+$yarn dev
+```
 ## Live
 [Countdown](https://countdown-vue3.netlify.app/)

@@ -1,0 +1,15 @@
+$white: rgb(237, 237, 237);
+$black: rgb(23, 23, 23) ;
+$pink: rgb(218, 0, 55);
+$main-bgcolor: rgb(237, 237, 237);
+$color: $black;
+
+$menu-link: $pink;
+$menu-link-hover: darken($pink, 20%);
+
+$menu-link-active: $white;
+$menu-link-active-bgcolor: darken($pink, 20%);
+
+$button-border: $pink;
+$button-text: $black;
+$button-hover: $pink;
